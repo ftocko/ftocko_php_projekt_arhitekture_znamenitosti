@@ -1,0 +1,190 @@
+body{
+    background-color:lightgrey;
+    font-family:arial;
+    color:white;
+    font-size:22px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    line-height: 1em;
+}
+
+.BodyRegistracija{
+    background-color:white;
+    font-family:arial;
+    color:black;
+}
+
+body#autor{
+    background-color:white;
+}
+
+.gumbSort, #gumbPrijedlog,#gumbDodajGrad, #GumbAzurirajGrad,#gumbDodijeliModeratore,#gumbPrijedlozi,#gumbZahtjev,#gumbMaterijal,#gumbZahtjevi{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight:bold;
+}
+
+header{
+    text-align: center;
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+    background-color:black;
+    width:100%;
+    min-height: 5%;
+    border:thin white solid;
+}
+
+
+footer{
+    text-align: center;
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+    background-color:black;
+    width:100%;
+    bottom:0;
+    min-height: 5%;
+    border:thin white solid;
+}
+
+
+.ElementListe{
+
+    font-size:20px;
+    font-weight:bold;
+    display:inline;
+    box-sizing:border-box;
+    background-color:white;
+    color:black;
+    padding:15px;
+
+}
+
+
+
+.Sadrzaj{
+    
+    font-weight:bold;
+    color:black;
+    font-size:20px;
+    text-align:center;
+    width:100%;
+    height:70%;
+    bottom:50%;
+}
+
+.SadrzajPrijava, .SadrzajRegistracija{
+    
+    width:100%;
+    height:70%;
+    bottom:50%;
+    font-weight:bold;
+    color:black;
+    font-size:20px;
+    text-align:center;
+    background-color:white;
+}
+
+
+
+.SadrzajAutor{
+    width:100%;
+    height:70%;
+    font-weight:bold;
+    color:black;
+    font-size:20px;
+    background-color:white;
+    
+}
+
+#prijava, #registracija{
+  
+    margin:auto;
+
+}
+
+.GumboviPrijava, #submitKorRadnja, #submitVrijemeKor, #submitStranicenje,#submitBrojPrijava, #submitSesija, #submitLink, #submitUvjeti,#resetUvjeti,.GumbPrijedlog, #Odredi, #FilterGodina, #submitAll, #submitVrijeme, #submitUser, #submitRadnja, #submitKorisnik,#submitSve, #NapraviSecKopiju, #VratiIzSecKopije, .GumbOdustani, .GumbZnamenitost, .gumbBlokiraj, .submitPostavi,.GumbDodajGrad,.GumbAzurirajGrad,#gumbDodijeli,#gumbReset,.GumbZahtjev{
+    
+    background-color: black;
+    color:white;
+    font-weight:bold;
+    font-size:16px;
+    box-shadow:0 3px 2px 0 #2c80a2;
+}
+
+.GumboviRegistracija{
+    
+    background-color: black;
+    color:white;
+    font-weight:bold;
+    font-size:16px;
+    box-shadow:0 3px 2px 0 #2c80a2;
+    
+}
+
+#submitLozinka{
+    
+    background-color: black;
+    color:white;
+    font-weight:bold;
+    font-size:16px;
+    box-shadow:0 3px 2px 0 #2c80a2;
+    
+}
+
+.sadrzaj img{
+    height:100%;
+    width:100%;
+    border:thin white solid;
+}
+
+a.element:hover{
+    color:black;
+}
+
+a:hover{
+    color:red;
+}
+
+.PosebanLink{
+    color:black;
+}
+
+a{
+    color:white;
+}
+
+a.element, #emailLink{
+    color:black;
+}
+
+a.element:hover{
+    color:red;
+}
+
+#emailLink:hover{
+    color:red;
+}
+
+
+.PosebanLink:hover{
+    color:red;
+}
+
+#slikaAutora{
+    top:20%;
+    bottom:20%;
+}
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+
+AuthType Basic
+AuthUserFile /var/www/WebDiP/2020_projekti/WebDiP2020x093/privatno/users.txt
+AuthName "WebDiP Apache Login"
+Require valid-user
